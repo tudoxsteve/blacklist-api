@@ -1,10 +1,10 @@
 {
-"CurrentVersion":"v1.3.1",
+"CurrentVersion":"N/A",
   
   
-"v1.1":true,
+"v1.1":false,
 "v1.3":false,
-"v1.3.1":true,
-"fb-v1":true
+"v1.3.1":false,
+"fb-v1":false
 
 }
